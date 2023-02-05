@@ -7,8 +7,9 @@ to quickly and easily create APIs from plain text files.
 
 1. Clone the repository or download the source code.
 2. Install the dependencies by running pip install -r requirements.txt in the terminal.
-3. Create a text file in the lists folder. The name of the file is up to you, but make sure it has a .txt extension.
-4. In the text file, enter any text you want. To specify the data that will be returned by the API, surround the text with --namehere-- and --namehere end--. For example:
+3. Make a folder called "lists"
+4. Create a text file in the lists folder. The name of the file is up to you, but make sure it has a .txt extension.
+5. In the text file, enter any text you want. To specify the data that will be returned by the API, surround the text with --namehere-- and --namehere end--. For example:
 ```
 --main--
 apple
